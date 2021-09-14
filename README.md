@@ -1,7 +1,9 @@
 # min-code
 最小代码实现Vue、Vue-router、Vuex、Diff、Plugins
 
+
 参考资料：
+
 Vue: https://github.com/qq281113270/vue,https://github.com/LeachZhou/vue
 
 Vuex: https://segmentfault.com/a/1190000018343771
