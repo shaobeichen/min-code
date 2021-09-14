@@ -1,6 +1,7 @@
 # min-code
 最小代码实现Vue、Vue-router、Vuex、Diff、Plugins
 
+> 我还没写呢，下面只是收集的参考资料，这就开始star了？最小代码肯定要打磨的
 
 参考资料：
 
